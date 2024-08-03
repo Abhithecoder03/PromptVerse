@@ -94,7 +94,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 3. Use the corresponding buttons to edit or delete the prompt.
    
 ### Preview
-![image](https://github.com/user-attachments/assets/a8e6c6b9-e8d9-48eb-b27b-ab941eb57a7d)
+![image](https://github.com/user-attachments/assets/af8c4713-37a4-4bd5-9927-38b75ee85375)
+
 
 ## Deployment
 
