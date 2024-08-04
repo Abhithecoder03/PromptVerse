@@ -39,7 +39,7 @@ function promptFilter(post) {
     
       useEffect(() => {
         fetchPosts();
-      }, []);
+      }, [posts]);
   const handleGetAll = () => { 
     setFilterState(!filterState);
   }

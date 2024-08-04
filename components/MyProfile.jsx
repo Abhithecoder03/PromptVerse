@@ -109,7 +109,7 @@ const MyProfile = ({ data, handleEdit, handleDelete }) => {
   );
 }
 
-export default  React.memo(MyProfile)
+export default  MyProfile
 // Dummy dashboard component with content
 // Dummy dashboard component with content
 const Dashboard = ({ data, handleEdit, handleDelete }) => {
